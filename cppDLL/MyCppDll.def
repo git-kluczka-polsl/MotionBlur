@@ -1,0 +1,2 @@
+LIBRARY cppDLL
+EXPORTS apply_linear_blur_cpp
